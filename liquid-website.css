@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px -10px;
+}
+
+.col-1 {
+  width: 8.33%;
+  padding: 10px;
+}
+
+.col-2 {
+  width: 16.66%;
+  padding: 10px;
+}
+
+.col-3 {
+  width: 25%;
+  padding: 10px;
+}
+
+.col-4 {
+  width: 33.33%;
+  padding: 10px;
+}
+
+.col-5 {
+  width: 41.66%;
+  padding: 10px;
+}
+
+.col-6 {
+  width: 50%;
+  padding: 10px;
+}
+
+.col-7 {
+  width: 58.33%;
+  padding: 10px;
+}
+
+.col-8 {
+  width: 66.66%;
+  padding: 10px;
+}
+
+.col-9 {
+  width: 75%;
+  padding: 10px;
+}
+
+.col-10 {
+  width: 83.33%;
+  padding: 10px;
+}
+
+.col-11 {
+  width: 91.66%;
+}
